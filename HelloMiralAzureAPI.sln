@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26621.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMiralAzureAPI", "HelloMiralAzureAPI\HelloMiralAzureAPI.csproj", "{2DE9D9BA-E99F-48A3-95C2-CE4F25411A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE9D9BA-E99F-48A3-95C2-CE4F25411A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE9D9BA-E99F-48A3-95C2-CE4F25411A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE9D9BA-E99F-48A3-95C2-CE4F25411A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE9D9BA-E99F-48A3-95C2-CE4F25411A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F0E0BB-0369-41EC-9172-3E0FAAFC3926}
+	EndGlobalSection
+EndGlobal
